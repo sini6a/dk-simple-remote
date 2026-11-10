@@ -35,3 +35,9 @@ Datasheets in `Assets/` and vendor 3D models in `KiCad/Models/` belong to their
 respective manufacturers and are not covered by either license.
 
 Copyright (c) 2026 CH583 Remote contributors.
+
+## Support
+
+If you find this project useful, you can buy me a coffee:
+
+<a href="https://buymeacoffee.com/sini6a"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"></a>
