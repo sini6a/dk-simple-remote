@@ -1,0 +1,3 @@
+[submodule "Firmware/vendor/ch583"]
+	path = Firmware/vendor/ch583
+	url = https://github.com/openwch/ch583.git

@@ -1,0 +1,16 @@
+# Generated files and local working history
+/build/
+/recovery/
+/docs/archive/
+# vendor/ch583 is a git submodule (official WCH SDK, pinned); never copy SDK files in.
+__pycache__/
+*.py[cod]
+# Local tools, credentials and editor state
+.env
+.env.*
+!.env.example
+.venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

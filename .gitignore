@@ -1,0 +1,28 @@
+# KiCad local history, autosave backups, locks and caches
+.history/
+.history_trim/
+**/.history/
+*-backups/
+*.kicad_prl
+~*.lck
+*.lck
+fp-info-cache
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+\#auto_saved_files\#
+
+# FreeCAD backups
+*.FCBak
+*.FCStd1
+
+# Ad-hoc project snapshot archives
+/FreeCAD/3D Enclosure.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

@@ -1,0 +1,71 @@
+{
+  "source": "https://www.data.energizer.com/pdfs/ultimatecr2032EU0920.pdf",
+  "pdf_sha256": "3ebdfcb8d4d0303f269ab9899c2ff2c8e2ca21b99fa22068021f6f532c592b48",
+  "curve": "Pulse Discharge Characteristics: blue Bkgnd curve",
+  "conditions": "21C, 15kohm background, 400ohm pulses 2s x12/day",
+  "cutoff_mv": 2200,
+  "cutoff_discharge_mah": 221.552,
+  "method": "Sample 9 PDF cubic Bezier segments at 1000 intervals each; axes x=321.84..526.37 map 0..225mAh; y=575.48..666.82 map 3200..1800mV. Sample every 5% remaining relative to cutoff; monotone upper envelope; retain lowest percentage for duplicate voltages. This is a curve-derived estimate, not calibrated state of charge.",
+  "lookup": [
+    [
+      2200,
+      0
+    ],
+    [
+      2528,
+      5
+    ],
+    [
+      2775,
+      10
+    ],
+    [
+      2855,
+      15
+    ],
+    [
+      2864,
+      20
+    ],
+    [
+      2885,
+      25
+    ],
+    [
+      2893,
+      30
+    ],
+    [
+      2905,
+      35
+    ],
+    [
+      2918,
+      40
+    ],
+    [
+      2927,
+      45
+    ],
+    [
+      2933,
+      50
+    ],
+    [
+      2936,
+      55
+    ],
+    [
+      2937,
+      60
+    ],
+    [
+      2951,
+      95
+    ],
+    [
+      2980,
+      100
+    ]
+  ]
+}

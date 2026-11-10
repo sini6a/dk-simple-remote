@@ -1,0 +1,249 @@
+{
+  "description": "Connectivity snapshot for the supported PCB; not a schematic or physical verification (board rev1: SW2 on PB0, BOOT/RESET on solder jumpers JP2/JP1)",
+  "source_board": "KiCad/production/netlist.ipc (2026-10-28 fabrication, rev1)",
+  "footprints": {
+    "U1": {
+      "1": [
+        "+VDCIA"
+      ],
+      "2": [
+        "Net-(U1-VSW)"
+      ],
+      "3": [
+        "+3V3"
+      ],
+      "4": [
+        "unconnected-(U1-PA7-Pad4)"
+      ],
+      "5": [
+        "unconnected-(U1-PA8-Pad5)"
+      ],
+      "6": [
+        "unconnected-(U1-PA9-Pad6)"
+      ],
+      "7": [
+        "unconnected-(U1-PB9-Pad7)"
+      ],
+      "8": [
+        "unconnected-(U1-PB8-Pad8)"
+      ],
+      "9": [
+        "unconnected-(U1-PB17-Pad9)"
+      ],
+      "10": [
+        "unconnected-(U1-PB16-Pad10)"
+      ],
+      "11": [
+        "SWDCLK"
+      ],
+      "12": [
+        "SWDIO"
+      ],
+      "13": [
+        "unconnected-(U1-PB13-Pad13)"
+      ],
+      "14": [
+        "unconnected-(U1-PB12-Pad14)"
+      ],
+      "15": [
+        "/MCU_DP"
+      ],
+      "16": [
+        "/MCU_DN"
+      ],
+      "17": [
+        "unconnected-(U1-PB7-Pad17)"
+      ],
+      "18": [
+        "unconnected-(U1-PB6-Pad18)"
+      ],
+      "19": [
+        "unconnected-(U1-PB5-Pad19)"
+      ],
+      "20": [
+        "PB4"
+      ],
+      "21": [
+        "PB3"
+      ],
+      "22": [
+        "PB2"
+      ],
+      "23": [
+        "PB1"
+      ],
+      "24": [
+        "PB0"
+      ],
+      "25": [
+        "/RST#"
+      ],
+      "26": [
+        "/BOOT"
+      ],
+      "27": [
+        "unconnected-(U1-PB21-Pad27)"
+      ],
+      "28": [
+        "unconnected-(U1-PB20-Pad28)"
+      ],
+      "29": [
+        "unconnected-(U1-PB19-Pad29)"
+      ],
+      "30": [
+        "unconnected-(U1-PB18-Pad30)"
+      ],
+      "31": [
+        "Net-(U1-X32MO)"
+      ],
+      "32": [
+        "Net-(U1-X32MI)"
+      ],
+      "33": [
+        "Net-(U1-VINTA)"
+      ],
+      "34": [
+        "/RF"
+      ],
+      "35": [
+        "+VDCIA"
+      ],
+      "36": [
+        "unconnected-(U1-PA4-Pad36)"
+      ],
+      "37": [
+        "unconnected-(U1-PA5-Pad37)"
+      ],
+      "38": [
+        "unconnected-(U1-PA6-Pad38)"
+      ],
+      "39": [
+        "unconnected-(U1-PA0-Pad39)"
+      ],
+      "40": [
+        "unconnected-(U1-PA1-Pad40)"
+      ],
+      "41": [
+        "unconnected-(U1-PA2-Pad41)"
+      ],
+      "42": [
+        "unconnected-(U1-PA3-Pad42)"
+      ],
+      "43": [
+        "unconnected-(U1-PA15-Pad43)"
+      ],
+      "44": [
+        "unconnected-(U1-PA14-Pad44)"
+      ],
+      "45": [
+        "PA13"
+      ],
+      "46": [
+        "unconnected-(U1-PA12-Pad46)"
+      ],
+      "47": [
+        "unconnected-(U1-PA11-Pad47)"
+      ],
+      "48": [
+        "unconnected-(U1-PA10-Pad48)"
+      ],
+      "49": [
+        "GND"
+      ]
+    },
+    "SW6": {
+      "1": [
+        "PB3"
+      ],
+      "2": [
+        "GND"
+      ]
+    },
+    "SW5": {
+      "1": [
+        "PB1"
+      ],
+      "2": [
+        "GND"
+      ]
+    },
+    "L1": {
+      "1": [
+        "+VDCIA"
+      ],
+      "2": [
+        "Net-(U1-VSW)"
+      ]
+    },
+    "Y1": {
+      "1": [
+        "Net-(U1-X32MO)"
+      ],
+      "2": [
+        "GND"
+      ],
+      "3": [
+        "Net-(U1-X32MI)"
+      ],
+      "4": [
+        "GND"
+      ]
+    },
+    "SW2": {
+      "1": [
+        "PB0"
+      ],
+      "2": [
+        "GND"
+      ]
+    },
+    "SW1": {
+      "1": [
+        "PA13"
+      ],
+      "2": [
+        "GND"
+      ]
+    },
+    "SW3": {
+      "1": [
+        "PB4"
+      ],
+      "2": [
+        "GND"
+      ]
+    },
+    "SW4": {
+      "1": [
+        "PB2"
+      ],
+      "2": [
+        "GND"
+      ]
+    },
+    "BT1": {
+      "1": [
+        "+3V3"
+      ],
+      "2": [
+        "GND"
+      ]
+    },
+    "JP1": {
+      "1": [
+        "/RST#"
+      ],
+      "2": [
+        "GND"
+      ]
+    },
+    "JP2": {
+      "1": [
+        "/BOOT"
+      ],
+      "2": [
+        "GND"
+      ]
+    }
+  }
+}

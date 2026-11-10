@@ -1,0 +1,15 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,BatteryHolder_MPD_BC2003_1x2032,1,CR2032,
+C1,0603,1,10u,C19702
+C2,0402,1,100n,C1525
+"C3, C4, C5, C8",0402,4,2u2,C12530
+J1,Hirose_DF13-04P-1.25DSA_1x04_P1.25mm_Vertical,1,USB_CONNECTOR,
+J2,Hirose_DF13-04P-1.25DSA_1x04_P1.25mm_Vertical,1,DEBUG_HEADER,
+JP1,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,1,RST#,
+JP2,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,1,BOOT,
+L1,L_APV_ANR3010,1,22u,C6364775
+"R1, R2",0402,2,0R,C17168
+"SW1, SW2, SW3, SW4, SW5, SW6",SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG,6,SW_Push_45deg,C2837531
+TP1,TestPoint_Pad_D1.5mm,1,VBUS_TP,
+U1,QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm,1,CH583M,
+Y1,Crystal_SMD_2016-4Pin_2.0x1.6mm,1,32M,C141794
